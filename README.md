@@ -1,2 +1,2 @@
 # Calcy
-An Android application of Calculator.
+An Android application of Standard Calculator.
